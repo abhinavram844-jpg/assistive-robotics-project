@@ -39,6 +39,16 @@ User Located
 Reminder Delivered
 ```
 
+## 📁 Current Code
+
+- `main.py` — Main program logic
+- `facial_recognition.py` — Real-time facial recognition
+- `image_capture.py` — Captures images used for the recognition system
+- `model_training.py` — Trains the facial recognition system
+- `speech.py` — Handles speech and verbal interaction
+- `test_schedule.py` — Tests the scheduling system
+
+
 ## 🔨Technologies
 
 The project is currently exploring technologies including:
@@ -46,6 +56,7 @@ The project is currently exploring technologies including:
 - OpenCV
 - Computer Vision
 - Robotics
+- Speech recognition
 - Raspberry Pi
 
 ## 🚧 Current Development
